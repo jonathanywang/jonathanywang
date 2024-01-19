@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jonathan Journals](https://jonathanjournals.netlify.app/)
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **ML, ReactJS, NodeJS**
 
 - 📫 How to reach me **jonathanywang05@gmail.com**
 
