@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jonathan Journals](https://jonathanjournals.netlify.app/)
 
-- 🌱 I’m currently learning **ML, ReactJS, NodeJS**
+- 🌱 I’m currently learning **ML, Deep Learning**
 
 - 📫 How to reach me **jonathanywang05@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jonathan-wang-3838b1241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-wang-3838b1241/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonathanywang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-wang-3838b1241/" height="30" width="40" /></a>
 <a href="https://instagram.com/jonathanywang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathanywang" height="30" width="40" /></a>
 </p>
 
